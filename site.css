@@ -1,0 +1,16 @@
+.bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+}
+
+.text-small {
+    font-size: 85%;
+}
+
+body {
+    background: url(img/bg-light.png) repeat
+}
+
+#header {
+    background: url(img/bg-dark.png) repeat-x
+}
